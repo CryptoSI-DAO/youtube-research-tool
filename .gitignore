@@ -52,3 +52,9 @@ config.local.*
 *.tmp
 *.log
 /tmp/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+backend/output/
